@@ -1,0 +1,16 @@
+# Twitter
+TWITTER_CONSUMER_KEY=xxxxxxxxxxxxxxxxxxxxxxxxx
+TWITTER_CONSUMER_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxx
+TWITTER_ACCESS_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxx
+TWITTER_ACCESS_TOKEN_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxx
+
+# Reddit
+REDDIT_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxxx
+REDDIT_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxx
+REDDIT_USER_AGENT=xxxxxxxxxxxxxxxxxxxxxxxxx
+
+# YouTube
+YOUTUBE_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxx
+
+# NYTimes
+NYTIMES_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxx
